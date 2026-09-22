@@ -1,1 +1,3 @@
 poppler-utils
+zlib1g-dev
+libjpeg-dev
